@@ -1,5 +1,3 @@
-## Swagger generated server
-
 Spring Boot Server
 
 ## Overview   
